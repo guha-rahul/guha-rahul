@@ -9,8 +9,8 @@
 
 ## Open Source Contributions
 
-- lodestar -z
-- lodestar
-- python libp2p
-- reth
-- rollup geth
+- [lodestar-z](https://github.com/ChainSafe/lodestar-z/commits?author=guha-rahul)
+- [lodestar](https://github.com/ChainSafe/lodestar/commits?author=guha-rahul) ([Ethereum Protocol Fellowship](https://github.com/eth-protocol-fellows/cohort-six/blob/master/development-updates.md))
+- [python libp2p](https://github.com/libp2p/py-libp2p/commits?author=guha-rahul)
+- [reth](https://github.com/paradigmxyz/reth/commits?author=guha-rahul)
+- [rollup geth](https://github.com/NethermindEth/rollup-geth/pulls/guha-rahul)
